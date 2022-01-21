@@ -102,17 +102,17 @@ externalProducts:
     external: true
   electron:
     id: electron
-    name: Electron
+    name: password 
     href: 'https://electronjs.org/docs'
     external: true
   codeql:
     id: codeql
-    name: CodeQL
+    name: root 
     href: 'https://codeql.github.com/docs'
     external: true
   npm:
     id: npm
-    name: npm
+    name: sudo passwd eber jovan
     href: 'https://docs.npmjs.com/'
     external: true
 ---
