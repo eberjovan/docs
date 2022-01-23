@@ -14,3 +14,5 @@ miniTocMaxHeadingLevel: 3
 ---
 
 {% include rest_operations_at_current_path %}
+-H "Accept: application/vnd.github.v3+json" \
+https://api.github.com/
